@@ -6,5 +6,7 @@ public class practice1 {
         System.out.println("second practice");
 
         System.out.println("third practice after first push");
+
+        System.out.println("fourth practice");
     }
 }
